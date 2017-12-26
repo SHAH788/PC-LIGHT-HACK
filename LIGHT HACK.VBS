@@ -1,0 +1,1 @@
+msgbox "check out the COOL LIGHT SHOW ON YOUR PC!!"set wshShell =wscript.createobject("wscript.shell")wscript.createobject("wscript.shell")dowscript.sleep 100wshShell.sendkeys"{NUMLOCK}"wshShell.sendkeys"{CAPSLOCK}"wshShell.sendkeys"{SCROLLLOCK}"loop
